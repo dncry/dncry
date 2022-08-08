@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-啦啦啦
-
+想做游戏，想玩游戏，想学代码，想学画画，想学数学，想学英语，想看书，md
